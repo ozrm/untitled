@@ -1,0 +1,4 @@
+package partfive;
+
+class YangHuita {
+}
